@@ -6,6 +6,7 @@
 - **Phone:** Available on Request
 - **LinkedIn:** [linkedin.com/in/davidowenpayne](https://www.linkedin.com/in/davidowenpayne)
 - **Github:** [github.com/dapayne](https://github.com/dapayne1)
+
 ----
 #### Experience
 
@@ -52,6 +53,7 @@ applications that aggregate and classify government contract financials.
         - _PHP, Python, CSS, HTML_
     - Built database & web app for indexing workstation I.T. issues. 
         - _Oracle PL/SQL, CSS, HTML_
+
 ----
 #### Skills
 
@@ -63,6 +65,7 @@ Objective-C, XML, YAML, Javascript, Ada, Scheme, Lisp, Coldfusion, Retrofit API,
 translating project requirements into accurately estimated, highly granular development tasks.
 
 - **Management:** Specialized in Team Leadership, with an emphasis on critical thinking and empathy-based interactions.
+
 ----
 #### Education
 
@@ -70,6 +73,7 @@ translating project requirements into accurately estimated, highly granular deve
     - Bachelor of Science in Computer Science & Technology.
 - **New River Community College** Graduated Magna Cum Laude May 2009
     - Applied Associates of Science in Information Technology, specialized in Game Design.
+
 ----
 #### Apps, Accolades, & Activities
 
@@ -77,4 +81,5 @@ translating project requirements into accurately estimated, highly granular deve
 - 1st Place, ACM Java Programming Competition 2008, at Radford University.
 - **Android Apps:** [Texas DPS](https://play.google.com/store/apps/details?id=com.microassist.texasdps), [FreshAiR](https://play.google.com/store/apps/details?id=com.mogomobile.freshair), GREX 
 - **iOS Apps:** [FreshAiR](https://itunes.apple.com/kr/app/freshair/id567540864?l=en), Fraction Factory
+
 ----

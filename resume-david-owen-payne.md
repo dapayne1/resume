@@ -11,19 +11,18 @@
 
 **2018 – Present: Android Developer**
 
-_PayneCo, Lynchburg, Va_
+_[PayneCo](https://play.google.com/store/apps/details?id=com.woodcrest.flashcard), Lynchburg, Va_
 
 - **Languages/ Frameworks:** Android, Java, ORMlite, Git, JSON
 
 - **Skillsets:** Mobile application development, product roadmapping, task estimation
 
-- Developed Flashcards Express application, targeting Android 8, compatible back to
-    Android 4.0.3, with an ORMLite database backend and a persistant cache solution
+- Developed [Flashcards Express](https://play.google.com/store/apps/details?id=com.woodcrest.flashcard) application, targeting Android 8, compatible back to Android 4.0.3, with an ORMLite database backend and a persistant cache solution
 - Introduced the LogTruck Java logging utility for Logcat, soon open sourced to Github
 
 **2015 – 2018: Software Engineer, New Developer Mentor, Scrummaster**
 
-_IST Research, Remote Employment & Fredericksburg, Va_
+_[IST Research](https://www.linkedin.com/company/istresearch/), Remote Employment & Fredericksburg, Va_
 
 - **Languages/ Frameworks:** Git, PHP 5.6, MySQL, Android, Java, regular expressions,
 Kibana, Logstash, Elasticsearch, Docker, Docker Compose, AWS, Python, JSON,
@@ -41,11 +40,11 @@ leadership
 - Served intermittently in leadership roles as Team Scrummaster and ‘Dev Mentor’ to an
     onboarding new hire
 - Introduced to Docker, Docker Compose, and containerized environments
-- Open-Source contributor to the Auth Accounts API for Bitstheat er PHP Framework
+- Open-Source contributor to the Auth Accounts API for [Bitstheater PHP Framework](https://github.com/baracudda/phpBitsTheater)
 
 **2014 – 2015: Android Developer**
 
-_FitNet, Blacksburg, Va_
+_[FitNet](https://www.fit.net/), Blacksburg, Va_
 
 - **Languages/ Frameworks:** Android, Java, Lua, Corona
 
@@ -56,56 +55,56 @@ _FitNet, Blacksburg, Va_
 
 **2014 – 2015: Android Developer**
 
-_Rackspace, Blacksburg, Va_
+_[Rackspace](https://www.rackspace.com/), Blacksburg, Va_
 
 - **Languages/ Frameworks:**  Android, Java, Git
 
 - **Skillsets:** Android development, corporate contracting
 
-- Improved Rackspace Mobile , Android application for customer server data reporting
+- Improved [Rackspace Mobile](https://play.google.com/store/apps/details?id=com.rackspace.cloudmobile), Android application for customer server data reporting
 
 **2013 – 2014: Android Developer**
 
-_Atomic Axis / Enola Labs, Blacksburg, Va_
+_[Atomic Axis / Enola Labs](http://www.atomicaxis.com/), Blacksburg, Va_
 
 - **Languages/ Frameworks:** Android, Java, Retrofit API, JSON, Git, Bitbucket
 
 - **Skillsets:** Self-paced scheduled development, agile development cycle
 
 - Tutored management on Git source control best practices and common usage patterns
-- Improved API and UI for the Texas DPS Android app
+- Improved API and UI for [Texas DPS](https://play.google.com/store/apps/details?id=com.microassist.texasdps) on Android
 - Prototyped a point-of-sale inventory barcode scanning Android app from start to finish
-- Began development on GREX Railroad tie maintenance internal Android app
+- Began development on GREX Railroad tie maintenance internal Android application
 
 **2011 – 2013: Co-Founder, CEO**
 
-_FreshAiR, Blacksburg, Va & Radford, Va_
+_[FreshAiR](http://www.playfreshair.com/), Blacksburg, Va & Radford, Va_
 
 - **Languages/ Frameworks:** Android, Java, iOS, Objective-C, Javascript, PHP, CSS
 
 - **Skillsets:** Executive leadership, product roadmapping, entrepreneurship
 
-- Co-designed, built augmented reality applications for Android, iOS from ground up
+- Co-designed, built augmented reality applications for [Android](https://play.google.com/store/apps/details?id=com.mogomobile.freshair), [iOS](https://itunes.apple.com/kr/app/freshair/id567540864?l=en) from ground up
 - Aided in implementing corresponding backend server, API, web editor
 - Co-founded Radford University’s first start-up ‘spin-off’ LLC, first IP patent submission
 - Managed all aspects of day-to-day company operations for over two years, including
-    the software architecture roadmap, finances, sales, marketing, and personnel
+    software architecture roadmap, finances, sales, marketing, and personnel
     management
 
 **2008 – 2011: Senior Programmer**
 
-_GAMeS Lab, Radford, Va_
+_[GAMeS Lab](http://tiny.cc/gamesarticle), Radford, Va_
 
 - **Languages/ Frameworks:** Objective-C
 
 - **Skillsets:** Small team leadership, product roadmapping
 
-- Built award-winning educational iOS app ‘Fraction Factory’
+- Built [award-winning](http://www.doe.virginia.gov/news/news_releases/2009/jun30.shtml) educational iOS app ‘Fraction Factory’
 - Aided team in full development cycle of several other educational iOS applications
 
 **2008 – 2010: Army Civilian Developer Intern**
 
-_Dept. of Defense Altess PEO EIS, Radford, Va_
+_[Dept. of Defense Altess PEO EIS](http://www.altess.army.mil/), Radford, Va_
 
 - **Languages/ Frameworks:** PHP, Oracle PL/SQL, CSS, HTML, ColdFusion, Python,
 Svn
@@ -122,14 +121,14 @@ Svn
 
 **2009 – 2010: Graduated, Bachelor of Science in Computer Science & Technology**
 
-_Radford University, Radford, Va_
+_[Radford University](https://www.radford.edu/), Radford, Va_
 
 - Co-founded Radford University’s first start-up ‘spin-off’ LLC, first IP patent submission
 
 **2007 – 2009: Graduated, Magna Cum Laude, Applied Associates of Science in
 Information Technology, specialized in Game Design**
 
-_New River Community College, Dublin, Va_
+_[New River Community College](https://www.nr.edu/), Dublin, Va_
 
 - 1 st Place in the 2008 ACM Java Programming Competition
 ----

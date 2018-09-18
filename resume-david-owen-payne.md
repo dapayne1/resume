@@ -73,7 +73,7 @@ _[Atomic Axis / Enola Labs](http://www.atomicaxis.com/), Blacksburg, Va_
 
 - Tutored management on Git source control best practices and common usage patterns
 - Improved API and UI for [Texas DPS](https://play.google.com/store/apps/details?id=com.microassist.texasdps) on Android
-- Prototyped a point-of-sale inventory barcode scanning Android app from start to finish
+- Prototyped a point-of-sale inventory barcode scanning Android application
 - Began development on GREX Railroad tie maintenance internal Android application
 
 **2011 – 2013: Co-Founder, CEO**
@@ -99,7 +99,7 @@ _[GAMeS Lab](http://tiny.cc/gamesarticle), Radford, Va_
 
 - **Skillsets:** Small team leadership, product roadmapping
 
-- Built [award-winning](http://www.doe.virginia.gov/news/news_releases/2009/jun30.shtml) educational iOS app ‘Fraction Factory’
+- Built [award-winning](http://www.doe.virginia.gov/news/news_releases/2009/jun30.shtml) educational iOS application ‘Fraction Factory’
 - Aided team in full development cycle of several other educational iOS applications
 
 **2008 – 2010: Army Civilian Developer Intern**

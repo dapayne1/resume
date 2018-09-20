@@ -76,6 +76,18 @@ _[Atomic Axis / Enola Labs](http://www.atomicaxis.com/), Blacksburg, Va_
 - Prototyped a point-of-sale inventory barcode scanning Android application
 - Began development on GREX Railroad tie maintenance internal Android application
 
+**2013 – 2014: Android Developer**
+
+_[DigiGone](http://www.digigone.com/), Remote employment_
+
+- **Languages/ Frameworks:** Android, Java, iOS, Objective-C
+
+- **Skillsets:** Mobile application development, product roadmapping, task estimation
+
+- Built the [Android DigiChat application](http://www.digigone.com/digichat_uses.php), implementing requested functionality of the iOS version
+- Created complete development roadmap of required tasks, in a prioritized timeline
+- Successfully delivered all promised work on time and under budget, as scheduled
+
 **2011 – 2013: Co-Founder, CEO**
 
 _[FreshAiR](http://www.playfreshair.com/), Blacksburg, Va & Radford, Va_

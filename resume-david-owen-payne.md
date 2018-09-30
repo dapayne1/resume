@@ -88,7 +88,7 @@ _[DigiGone](http://www.digigone.com/), Remote employment_
 - Created complete development roadmap of required tasks, in a prioritized timeline
 - Successfully delivered all promised work on time and under budget, as scheduled
 
-**2011 – 2013: Co-Founder, CEO**
+**2011 – 2014: Co-Founder, CEO**
 
 _[FreshAiR](http://www.playfreshair.com/), Blacksburg, Va & Radford, Va_
 
@@ -103,7 +103,7 @@ _[FreshAiR](http://www.playfreshair.com/), Blacksburg, Va & Radford, Va_
     software architecture roadmap, finances, sales, marketing, and personnel
     management
 
-**2008 – 2011: Senior Programmer**
+**2009 – 2011: Senior Programmer**
 
 _[GAMeS Lab](http://tiny.cc/gamesarticle), Radford, Va_
 

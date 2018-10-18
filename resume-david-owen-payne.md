@@ -88,7 +88,7 @@ _[DigiGone](http://www.digigone.com/), Remote employment_
 - Created complete development road-map of required tasks, in a prioritized timeline
 - Successfully delivered all promised work on time and under budget, as scheduled
 
-**2011 – 2013: Co-Founder, CEO**
+**2011 – 2014: Co-Founder, CEO**
 
 _[FreshAiR](http://www.playfreshair.com/), Blacksburg, Va & Radford, Va_
 
@@ -101,7 +101,7 @@ _[FreshAiR](http://www.playfreshair.com/), Blacksburg, Va & Radford, Va_
 - Co-founded Radford University’s first start-up ‘spin-off’ LLC, first IP patent submission
 - Managed all aspects of day-to-day company operations for over two years, including software architecture road-map, finances, sales, marketing, and personnel management
 
-**2008 – 2011: Senior Programmer**
+**2009 – 2011: Senior Programmer**
 
 _[GAMeS Lab](http://tiny.cc/gamesarticle), Radford, Va_
 
